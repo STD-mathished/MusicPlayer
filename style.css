@@ -143,3 +143,10 @@ a:hover {
     width: 0%;
     transition: width 0.1s linear;
   }
+
+  @media (max-width: 550px) {
+    h1 {
+      font-size: 24px;
+    }
+    
+  }
